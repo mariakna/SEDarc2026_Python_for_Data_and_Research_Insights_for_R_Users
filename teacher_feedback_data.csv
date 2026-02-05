@@ -1,0 +1,5 @@
+Teacher,YearsExperience,Subjects,HeadteacherFeedback,HasPunctualityFeedback
+Alice Johnson,5,"['Math', 'Physics']","['Great lesson planning.', 'Could engage more with quieter students.']",False
+Bob Smith,12,"['English', 'History']","['Strong knowledge of subject.', 'Needs to improve punctuality.']",True
+Charlie Evans,8,"['Biology', 'Chemistry']","['Excellent student rapport.', 'Very well organized.']",False
+Diana Clark,3,"['Art', 'Design']","['Creative approach to lessons.', 'Should improve classroom management.']",False
